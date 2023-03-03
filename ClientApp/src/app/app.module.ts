@@ -18,6 +18,7 @@ import { ImplantacaoComponent } from './implantacao/implantacao.component';
 import { RelatoriosComponent } from './relatorios/relatorios.component';
 import { ComunicacaoComponent } from './comunicacao/comunicacao.component';
 import { CommonModule } from '@angular/common';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -48,6 +49,7 @@ import { CommonModule } from '@angular/common';
     MatNativeDateModule,
     MatIconModule,
     AngularMaterialModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

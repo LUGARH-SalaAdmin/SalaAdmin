@@ -28,7 +28,9 @@
         <div class="logoEmpresasTable">
           <img src="/assets/images/logo/logoEmpresa.svg" />
         </div>
-        {{element.razaoSocial}}
+        <a routerLink="/dados">{{element.razaoSocial}}</a>
+        <router-outlet></router-outlet>
+        <app-interna-dados-plano></app-interna-dados-plano>
       </td>
     </ng-container>
 

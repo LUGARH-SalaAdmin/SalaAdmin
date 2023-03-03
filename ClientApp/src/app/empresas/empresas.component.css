@@ -9,3 +9,7 @@
   display: flex;
   align-items: center;
 }
+
+a {
+  color: #777777;
+}
