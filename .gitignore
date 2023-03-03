@@ -229,3 +229,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/ClientApp/.angular/cache/13.3.4/angular-webpack/d0c57c55011859655653ab009b9b2fb887b12a4f
+/.gitignore
+/.gitignore
