@@ -1,0 +1,231 @@
+a {
+  color: #777777;
+}
+
+h1 {
+  text-decoration: underline;
+  padding: 10px 0px 0px 20px;
+  font-weight: 700;
+  font-size: 15px;
+  color: white;
+}
+
+#seta {
+    padding: 17px 0px 0px 20px;
+    font-size: 9px;
+}
+
+p {
+  color: #FFFFFF;
+  padding: 13px 0px 0px 20px;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.dadosContainer {
+  position: absolute;
+  min-width: 95vw;
+  min-height: 88vh;
+  top: 12vh;
+  left: 5vw;
+}
+
+.headerDados {
+  display: flex;
+  padding: 14px, 20px, 14px, 20px;
+}
+
+.dadosInicio {
+  background: #1B499B;
+  color: #fff;
+  height: 14em;
+  padding-left: 10px;
+}
+
+.mainDados {
+  height: 95px;
+  width: 95px;
+  padding: 20px;
+  background-color: #D9D9D9;
+  border-radius: 50%;
+  margin-left: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  filter: opacity(0.6);
+  width: 30px;
+}
+
+.nomeEmpDados {
+  font-size: 32px;
+}
+
+.botaoPlanoDados {
+  font-weight: 700;
+  padding: 4.5px 11.5px;
+  background-color: white;
+  color: #1B499B;
+  border-radius: 4px;
+  height: fit-content;
+  margin-left: -100px;
+}
+
+td {
+  padding-left: 20px;
+}
+
+.tableIcon {
+  padding-bottom: 3px;
+  width: 23px;
+  height: 23px;
+  filter: brightness(10);
+  cursor: pointer;
+}
+
+.editarEmpresa {
+  background-color: #FFB300;
+  padding: 18px 16px;
+  font-weight: bold;
+  color: black;
+  border-radius: 100px;
+  margin-top: -20px;
+  cursor: pointer;
+}
+
+table {
+  font-weight: 100;
+}
+
+.menuNav {
+  display: flex;
+  justify-content: center;
+  font-size: 15.5px;
+  background-color: #1B499B;
+}
+
+.Card {
+  color: white;
+  margin-top: 5px;
+  padding: 10px 20px;
+  border-radius: 10px 10px 0px 0px;
+  cursor: pointer;
+}
+
+.Card2 {
+  color: #1b499b;
+  margin: 5px 5px 0px 5px;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 10px 10px 0px 0px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.graficos {
+  background-color: whitesmoke;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: white;
+}
+
+.graficoDados {
+  width: 50%;
+  margin-left: 20px;
+  padding: 25px;
+  box-shadow: 0px 0px 1px black;
+  background-color: white;
+}
+
+.graficoContratacoes {
+  width: 25%;
+  margin-left: 20px;
+  padding: 25px;
+  box-shadow: 0px 0px 1px black;
+  background-color: white;
+}
+
+.graficoAnexos {
+  width: 25%;
+  margin: 0px 20px 0px 20px;
+  padding: 25px;
+  box-shadow: 0px 0px 1px black;
+  background-color: white;
+}
+
+#gH1 {
+  color: #1B499B;
+  font-weight: 700;
+}
+
+#gH2 {
+  color: #FFB300;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 25px 0px;
+}
+
+#gH3 {
+  color: #777777;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+
+#subH3 {
+  color: #777777;
+  font-weight: 500;
+}
+
+.circulo1 {
+  margin: auto;
+  background: linear-gradient(90deg, #D9D9D9 50%, #FFB300 50%);
+  border-radius: 1000px;
+  height: 124px;
+  width: 124px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fundoG {
+  border-radius: 1000px;
+  background-color: white;
+  height: 109px;
+  width: 109px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#gH4 {
+  padding-top: 20px;
+  font-weight: 500;
+}
+
+#valor {
+  color: #FFB300;
+  font-weight: 700;
+  font-size: 53px;
+}
+
+.circulo2 {
+  margin: auto;
+  background-color: #D9D9D9;
+  border-radius: 1000px;
+  height: 124px;
+  width: 124px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#valor2 {
+  color: #1b499b;
+  font-weight: 700;
+  font-size: 53px;
+}
